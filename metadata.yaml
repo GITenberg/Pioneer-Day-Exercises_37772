@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39058'
     url: http://www.gutenberg.org/2009/agents/39058
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37772#Pioneer-Day-Exercises
 gutenberg_issued: '2011-10-17'
 gutenberg_type: Text
 identifiers:
