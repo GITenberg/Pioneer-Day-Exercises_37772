@@ -1,0 +1,25 @@
+_repo: Pioneer-Day-Exercises_37772
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ladies' Library Association (Schoolcraft, Mich.)
+    alias: Schoolcraft, Michigan. Ladies' Library Association
+    gutenberg_agent_id: '39058'
+    url: http://www.gutenberg.org/2009/agents/39058
+description: ''
+gutenberg_issued: '2011-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schoolcraft (Mich.) -- History'
+- !lcc 'F516'
+title: Pioneer Day Exercises
+url: http://www.gutenberg.org/ebooks/37772
